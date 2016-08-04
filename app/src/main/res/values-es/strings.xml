@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="skip">SALTAR</string>
+    <string name="start">ENTENDIDO</string>
+
+    <string name="slide_1_title">¡Buenas amig@s!</string>
+    <string name="slide_1_desc">El juego, consiste en responder las preguntas generadas desde muchos temas y palabras correctamente</string>
+
+    <string name="slide_2_title">Google Play Games</string>
+    <string name="slide_2_desc">Posibilidad de obtener logros en Google Play Games teniendo en cuenta nuestras puntuaciones y resultados</string>
+
+    <string name="slide_3_title">Múltiples idiomas</string>
+    <string name="slide_3_desc">¡Posibilidad de jugar tanto en Euskera como Español! Próximamente en inglés :)</string>
+
+    <string name="slide_4_title">Objetivo del juego</string>
+    <string name="slide_4_desc">¡Disfrutar todo lo posible mientras ampliamos conocimientos!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>

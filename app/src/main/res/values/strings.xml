@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">JARRAITU</string>
+    <string name="skip">SALTATU</string>
+    <string name="start">ULERTUA</string>
+
+    <string name="slide_1_title">Kaixo lagunak!</string>
+    <string name="slide_1_desc">Jokoa, galderak asmatzea du helburu gai anitzez eta hitz askorekin sortuak izan direla!</string>
+
+    <string name="slide_2_title">Google Play Games</string>
+    <string name="slide_2_desc">Gure partiden puntuazioak edota emaitzak kontutan hartuta sariak lortu ahal ditugu Google Play Games zerbitzuan!</string>
+
+    <string name="slide_3_title">Eleanitza</string>
+    <string name="slide_3_desc">Euskaraz edota gaztelaniaz jokatzeko aukera! Aurrerago Ingelesez baita ere :)</string>
+
+    <string name="slide_4_title">Jokoaren helburua</string>
+    <string name="slide_4_desc">Asko ikasten duzun bitartean gozatzea!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>

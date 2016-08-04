@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Friends!</string>
+    <string name="slide_1_desc">The game objective is to answer the questions generated from many themes and words correctly</string>
+
+    <string name="slide_2_title">Google Play Games</string>
+    <string name="slide_2_desc">Ability to get Google Play Games achievements in considering our scores and results</string>
+
+    <string name="slide_3_title">Multilanguage</string>
+    <string name="slide_3_desc">Possibility of playing both Basque and Spanish! English soon :)</string>
+
+    <string name="slide_4_title">Objective of the game</string>
+    <string name="slide_4_desc">Enjoying everything possible while expanding knowledge!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
